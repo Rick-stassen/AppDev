@@ -1,0 +1,9 @@
+venv
+.env
+dev_config.json
+__pycache__/
+*.pyc
+app.log
+.pytest_cache/
+.coverage
+htmlcov/
